@@ -80,7 +80,7 @@ if ($user->error()) {
 }
 ```
 
-#### Invoices endpoint:
+# # # # Invoices endpoint:
 
 ```php
 <?php
